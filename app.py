@@ -4,7 +4,12 @@ from flask import Flask, jsonify, request
 from python_graphql_client import GraphqlClient
 import asyncio
 from query import *
+from flask_apscheduler import APScheduler
+
 app = Flask(__name__)
+scheduler = APScheduler()
+scheduler.init_app(app)
+scheduler.start()
 
 BASE_URL = "https://api.github.com/graphql"
 
@@ -13,17 +18,10 @@ GRAPHQL_SERVEUR = GraphqlClient(
         "Authorization": f"Bearer {os.getenv('GITHUB_TOKEN')}"})
 
 
-@app.route('/users/location/<location>', methods=['GET'])
-def list_users(location):
-    data = asyncio.run(GRAPHQL_SERVEUR.execute_async(
-        query=query_list_user(location)))
-    return jsonify(data)
-
-
-@app.route('/test', methods=['GET'])
-def test():
-    return request.args.getlist("location")
-# You can use a custome country,this request take too many time
+@scheduler.task('cron', id='do_fetch_senegal_users',
+                hour='*', misfire_grace_time=900)
+def fetch_senegal_users():
+    pass
 
 
 @app.route('/users/contributions/senegal', methods=['GET'])
@@ -55,8 +53,16 @@ def get_dakar_users():
 
 
 @app.route('/users/search', methods=['GET'])
-def list_users_by_location(location):
-    pass
+def list_users_by_location():
+    query_args = request.args
+    variables = {'query': query_builder_string(query_args)}
+    data = asyncio.run(
+        GRAPHQL_SERVEUR.execute_async(
+            query=query_list_user(
+                query_builder_string(query_args),
+                query_args.get('after')),
+            variables=variables))['data']
+    return jsonify(data)
 
 
 @app.route('/users/<username>', methods=['GET'])
