@@ -16,7 +16,7 @@ python3 app.py
 
 ```bash
 docker build . -t flask-graphql-github
-docker run --env GITHUB_TOKEN=YOUR_TOKEN -dp 3000:5000 flask-graphql-github
+docker run --env GITHUB_TOKEN=YOUR_TOKEN -dp 5000:5000 flask-graphql-github
 ```
 
 ## Usage
@@ -128,28 +128,25 @@ If you want to fetch more,you must add the _after_ field
 ```bash
    GET /users/contributions/senegal
  {
-  "data": {
-    "user": {
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45278724?u=8d5129d655e9eafebcd725944bf401ca0ba93feb&v=4",
-      "bio": "Full-stack Developper Python-JS  | Devops Enthusiast | CTF player",
-      "email": "diagne.bambahmadou@gmail.com",
-      "login": "bambadiagne",
-      "name": "Ahmadou Bamba Diagne",
-      "repositories": {
-        "edges": [
-          {
-            "node": {
-              "forkCount": 0,
-              "name": "CryptoJava",
-              "stargazerCount": 7
-            }
-          }
-        ]
-      },
-      "twitterUsername": "ahmadou_elkha",
-      "websiteUrl": "https://ahmadoubambadiagne.tech/"
-    }
-  }
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45278724?u=8d5129d655e9eafebcd725944bf401ca0ba93feb&v=4",
+  "bio": "Full-stack Developper Python-JS  | Devops Enthusiast | CTF player",
+  "email": "diagne.bambahmadou@gmail.com",
+  "login": "bambadiagne",
+  "most_starred_repo": {
+    "forkCount": 0,
+    "name": "github-user-stats",
+    "stargazerCount": 9
+  },
+  "most_used_anguages": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Java",
+    "Python"
+  ],
+  "name": "Ahmadou Bamba Diagne",
+  "twitterUsername": "ahmadou_elkha",
+  "websiteUrl": "https://ahmadoubambadiagne.tech/"
 }
 ```
 
@@ -162,4 +159,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE.md)
