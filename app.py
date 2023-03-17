@@ -15,7 +15,7 @@ scheduler.start()
 
 @scheduler.task('interval', id='do_fetch_senegal_users',
                 seconds=3600, misfire_grace_time=900)
-def get_dakar_users():
+def get_senegal_users():
     start_time = time.time()
     print('============================= START JOB =============================')
     all_users = {'users': []}
@@ -28,6 +28,7 @@ def get_dakar_users():
                   sort_keys=True)
     print('============================= END JOB =============================')
     print(f"JOB TAKEN TIME {time.time()-start_time} seconds")
+    return jsonify({"ok": "ok"})
 
 
 @app.route('/users/contributions/senegal', methods=['GET'])
@@ -84,4 +85,4 @@ def page_not_found(e):
 
 
 if __name__ == '__main__':
-    app.run(debug=os.getenv('FLASK_DEBUG'), port=5000, host="0.0.0.0")
+    app.run(debug=int(os.getenv('FLASK_DEBUG')), port=5000, host="0.0.0.0")

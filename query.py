@@ -77,6 +77,7 @@ def query_all_senegalese(query, number, after=''):
         avatarUrl
         contributionsCollection {{
           totalCommitContributions
+          restrictedContributionsCount
           contributionCalendar {{
             totalContributions
           }}
@@ -100,9 +101,11 @@ def query_get_one_user(login=DEFAULT_USERNAME):
     name
     login
     websiteUrl
+    location
     twitterUsername
     contributionsCollection {{
           totalCommitContributions
+          restrictedContributionsCount
           contributionCalendar {{
             totalContributions
           }}
@@ -138,6 +141,7 @@ def query_get_one_user(login=DEFAULT_USERNAME):
 
 def fetchAllSenegalese(query):
     all_users = []
+    query = "type:user " + query
     try:
         data = handle_response(asyncio.run(
             GRAPHQL_SERVEUR.execute_async(
@@ -148,13 +152,11 @@ def fetchAllSenegalese(query):
     if (data.get('message')):
         return {'users': None, 'message': data.get('message')}
     userCount = data['userCount']
-    all_users.extend(
-        user for user in data['nodes'] if (
-            user != {}))  # remove empty json
+    all_users.extend(data['nodes'])  # remove empty json
     while (data['pageInfo']['hasNextPage']):
         cursor = data['pageInfo']['endCursor']
         try:
-
+            print(query)
             data = handle_response(asyncio.run(
                 GRAPHQL_SERVEUR.execute_async(
                     query=query_all_senegalese(query, 50, cursor),
@@ -163,7 +165,7 @@ def fetchAllSenegalese(query):
                 return {'users': None, 'message': data.get('message')}
         except RuntimeError as e:
             pass
-        all_users.extend(user for user in data['nodes'] if (user != {}))
+        all_users.extend(data['nodes'])
     return {
         'users': all_users,
         'userCount': userCount,
@@ -215,11 +217,12 @@ def format_user(user):
                 languages_dict[language_type] += language['size']
             else:
                 languages_dict[language_type] = language['size']
-    user['most_used_anguages'] = list(map(lambda x: x[0], sorted(
+    user['most_used_languages'] = list(map(lambda x: x[0], sorted(
         languages_dict.items(), key=lambda item: item[1], reverse=True)[:5]))
     user['most_starred_repo'] = user['repositories']['edges'][0]['node'] if (
         user['repositories']['edges']) else None
-    del user['most_starred_repo']['languages']
+    if (len(user['repositories']['edges']) > 0):
+        del user['most_starred_repo']['languages']
     del user['repositories']
     return user
 

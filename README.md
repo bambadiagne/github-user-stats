@@ -43,35 +43,43 @@ docker run --env GITHUB_TOKEN=YOUR_TOKEN -dp 5000:5000 flask-graphql-github
 ```bash
    GET /users/contributions/senegal
      {
-           {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32209399?u=6737dbfd36f70ed8a089125de748b0de134d0e44&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 1287
+                    "totalContributions": 1581
                 },
+                "restrictedContributionsCount": 1581,
                 "totalCommitContributions": 0
             },
+            "createdAt": "2017-09-22T22:31:30Z",
             "location": "Senegal",
             "login": "ibrahima92",
             "name": "Ibrahima Ndaw"
         },
-        {
+       {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/29026887?u=4c054c103f1388717423287186dcbff94dfecec7&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 316
+                    "totalContributions": 248
                 },
-                "totalCommitContributions": 124
+                "restrictedContributionsCount": 56,
+                "totalCommitContributions": 86
             },
+            "createdAt": "2017-05-28T21:46:10Z",
             "location": "Dakar, Senegal",
             "login": "ManuSquall",
             "name": "Charles Emmanuel S. Ndiaye"
         },
          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45278724?u=8d5129d655e9eafebcd725944bf401ca0ba93feb&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 396
+                    "totalContributions": 358
                 },
-                "totalCommitContributions": 326
+                "restrictedContributionsCount": 0,
+                "totalCommitContributions": 292
             },
+            "createdAt": "2018-11-23T03:55:39Z",
             "location": "Senegal,Dakar",
             "login": "bambadiagne",
             "name": "Ahmadou Bamba Diagne"
@@ -126,18 +134,26 @@ If you want to fetch more,you must add the _after_ field
 <b>We fetch an user with login :bambadiagne and we get informations like(most starred projet,profilePicture,website,...</b>
 
 ```bash
-   GET /users/contributions/senegal
+   GET /users/bambadiagne
  {
   "avatarUrl": "https://avatars.githubusercontent.com/u/45278724?u=8d5129d655e9eafebcd725944bf401ca0ba93feb&v=4",
   "bio": "Full-stack Developper Python-JS  | Devops Enthusiast | CTF player",
+  "contributionsCollection": {
+    "contributionCalendar": {
+      "totalContributions": 359
+    },
+    "restrictedContributionsCount": 0,
+    "totalCommitContributions": 293
+  },
   "email": "diagne.bambahmadou@gmail.com",
+  "location": "Senegal,Dakar",
   "login": "bambadiagne",
   "most_starred_repo": {
     "forkCount": 0,
     "name": "github-user-stats",
     "stargazerCount": 9
   },
-  "most_used_anguages": [
+  "most_used_languages": [
     "JavaScript",
     "HTML",
     "CSS",
@@ -145,7 +161,7 @@ If you want to fetch more,you must add the _after_ field
     "Python"
   ],
   "name": "Ahmadou Bamba Diagne",
-  "twitterUsername": "ahmadou_elkha",
+  "twitterUsername": "AhmadouElkha",
   "websiteUrl": "https://ahmadoubambadiagne.tech/"
 }
 ```
