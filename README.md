@@ -2,10 +2,15 @@
 
 <b>An API with (Flask+GraphQL+cron) to retrieve statistics from github users according to defined criteria</b>
 
+
+[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+
+
 ## Installation
 
 <b>You must generate github token from your account to make requests.
 After that add that token to the environments variable of your OS.</b>
+And also set env variable ```FLASK_DEBUG``` to 0 for dev and 1 for prod
 
 ```bash
 pip install -r requirements.txt
@@ -16,7 +21,7 @@ python3 app.py
 
 ```bash
 docker build . -t flask-graphql-github
-docker run --env GITHUB_TOKEN=YOUR_TOKEN -dp 5000:5000 flask-graphql-github
+docker run -e GITHUB_TOKEN=YOUR_TOKEN -e FLASK_DEBUG=1 -dp 5000:5000 flask-graphql-github
 ```
 
 ## Usage
