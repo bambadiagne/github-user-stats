@@ -1,6 +1,6 @@
 import json
 import time
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, send_file
 from query import *
 from flask_apscheduler import APScheduler
 from flask_cors import CORS
@@ -66,6 +66,10 @@ def list_users_by_location():
     return jsonify(users)
 
 
+@app.route('/get-user-file', methods=['GET'])
+def get_user_file():   
+    return send_file('users.json')
+
 @app.route('/users/<username>', methods=['GET'])
 def get_user_by_user(username):
 
@@ -82,7 +86,6 @@ def get_user_by_user(username):
 @app.errorhandler(404)
 def page_not_found(e):
     return {"message": "Ressource introuvable"}
-
 
 if __name__ == '__main__':
     app.run(debug=int(os.getenv('FLASK_DEBUG')), port=5000, host="0.0.0.0")
