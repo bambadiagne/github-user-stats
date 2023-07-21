@@ -25,15 +25,9 @@ jobs:
     
     - name: Create app version 
       run: |
-        aws elasticbeanstalk create-application-version \
-        --application-name github-user-stats \ 
-        --source-bundle S3Bucket="github-user-stats-eb",S3Key="package.zip" \
-        --version-label "version-${{ github.sha }}" \
-        --description "commit-${{ github.sha }}"
+        aws elasticbeanstalk create-application-version --application-name github-user-stats --version-label "version-${{ github.sha }}" --source-bundle S3Bucket="github-user-stats-eb",S3Key="package.zip" --description "commit-${{ github.sha }}"
     
     - name: Deploy new app version 
       run: |
-        aws elasticbeanstalk update-environment \
-        --environment-name github-user-stats-dev \
-        --version-label "version-${{ github.sha }}"
+        aws elasticbeanstalk update-environment --environment-name github-user-stats-dev --version-label "version-${{ github.sha }}"
     
