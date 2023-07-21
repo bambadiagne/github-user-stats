@@ -28,7 +28,7 @@ jobs:
         aws elasticbeanstalk create-application-version \
         --application-name github-user-stats \ 
         --source-bundle S3Bucket="github-user-stats-eb",S3Key="package.zip" \
-        --version-label "version-${{ github.sha }}"
+        --version-label "version-${{ github.sha }}" \
         --description "commit-${{ github.sha }}"
     
     - name: Deploy new app version 
