@@ -1,8 +1,11 @@
 import asyncio
+import json
 import os
+import time
+import logging
 from python_graphql_client import GraphqlClient
 import math
-
+logging.basicConfig(level=logging.INFO)
 DEFAULT_USERNAME = "torvalds"
 BASE_URL = "https://api.github.com/graphql"
 MAX_GITHUB_FETCH = 1000
@@ -44,6 +47,20 @@ def query_builder_string(query: dict,):
         for language in query.getlist("language"):
             grapqhql_query += f" language:{language}"
     return grapqhql_query
+
+
+def get_all_senegalese_users():
+    start_time = time.time()
+
+    all_users = {'users': []}
+
+    all_users['users'] = user_fetcher()
+    with open("users.json", "w", encoding="utf-8",) as f:
+        json.dump(all_users,
+                  f,
+                  indent=4,
+                  sort_keys=True)
+    logging.info(f"JOB TAKEN TIME {time.time()-start_time} seconds")
 
 
 def query_list_user(location='Senegal', after=''):
@@ -156,7 +173,6 @@ def fetchAllSenegalese(query):
     while (data['pageInfo']['hasNextPage']):
         cursor = data['pageInfo']['endCursor']
         try:
-            print(query)
             data = handle_response(asyncio.run(
                 GRAPHQL_SERVEUR.execute_async(
                     query=query_all_senegalese(query, 50, cursor),

@@ -1,5 +1,5 @@
 import json
-import time
+import threading
 from flask import Flask, jsonify, request, send_file
 from query import *
 from flask_apscheduler import APScheduler
@@ -13,22 +13,17 @@ scheduler.init_app(app)
 scheduler.start()
 
 
+# Fetch all users from Senegal when the app starts
+@app.before_first_request
+def before_first_request():
+    thread = threading.Thread(target=get_all_senegalese_users,)
+    thread.start()
+
+
 @scheduler.task('interval', id='do_fetch_senegal_users',
                 seconds=3600, misfire_grace_time=900)
 def get_senegal_users():
-    start_time = time.time()
-    print('============================= START JOB =============================')
-    all_users = {'users': []}
-
-    all_users['users'] = user_fetcher()
-    with open("users.json", "w", encoding="utf-8",) as f:
-        json.dump(all_users,
-                  f,
-                  indent=4,
-                  sort_keys=True)
-    print('============================= END JOB =============================')
-    print(f"JOB TAKEN TIME {time.time()-start_time} seconds")
-    return jsonify({"ok": "ok"})
+    get_all_senegalese_users()
 
 
 @app.route('/users/contributions/senegal', methods=['GET'])
@@ -67,8 +62,9 @@ def list_users_by_location():
 
 
 @app.route('/get-user-file', methods=['GET'])
-def get_user_file():   
+def get_user_file():
     return send_file('users.json')
+
 
 @app.route('/users/<username>', methods=['GET'])
 def get_user_by_user(username):
@@ -87,9 +83,15 @@ def get_user_by_user(username):
 def page_not_found(e):
     return {"message": "Ressource introuvable"}
 
+
 if __name__ == '__main__':
-    app.run(debug=int(os.getenv('FLASK_DEBUG', False)), port=80, host="0.0.0.0")
+    app.run(
+        debug=int(
+            os.getenv(
+                'FLASK_DEBUG', False)), port=os.getenv(
+            'FLASK_PORT', 5000), host="0.0.0.0")
+
 
 @app.route('/healthcheck')
 def healthcheck():
-    return "ok", 200 
+    return "ok", 200
