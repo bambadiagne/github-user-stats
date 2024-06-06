@@ -6,6 +6,7 @@ on:
       - "master"
 jobs:
   deploy:
+    if: false # Disable the workflow
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2 
@@ -30,4 +31,3 @@ jobs:
     - name: Deploy new app version 
       run: |
         aws elasticbeanstalk update-environment --environment-name github-user-stats-dev --version-label "version-${{ github.sha }}"
-    

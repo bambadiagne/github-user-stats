@@ -5,7 +5,7 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch: 
 jobs:
-  deploy:
+  update_data:
     runs-on: ubuntu-latest
     permissions:
       contents: write
