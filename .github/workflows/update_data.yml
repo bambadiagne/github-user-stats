@@ -1,0 +1,38 @@
+name: Update users.json data every 2 hours
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch: 
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      GITHUB_TOKEN: ${{ secrets.SECRET_GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt 
+
+      - name: Run Python script
+        run: python -c "from query import get_all_senegalese_users; get_all_senegalese_users()"
+        continue-on-error: true
+        
+      - name: Auto commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update user.json data n° ${{ github.run_number }}"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          file_pattern: 'users.json'
+          push_options: '--force'
+          skip_fetch: true
+          branch: ${{ github.head_ref }}

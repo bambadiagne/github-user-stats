@@ -1,5 +1,4 @@
 import json
-import threading
 from flask import Flask, jsonify, request, send_file
 from query import *
 from flask_apscheduler import APScheduler
@@ -11,13 +10,6 @@ CORS(app)
 scheduler = APScheduler()
 scheduler.init_app(app)
 scheduler.start()
-
-
-# Fetch all users from Senegal when the app starts
-@app.before_first_request
-def before_first_request():
-    thread = threading.Thread(target=get_all_senegalese_users,)
-    thread.start()
 
 
 @scheduler.task('interval', id='do_fetch_senegal_users',
