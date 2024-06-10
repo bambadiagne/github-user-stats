@@ -76,6 +76,10 @@ def page_not_found(e):
     return {"message": "Ressource introuvable"}
 
 
+@app.route('/healthcheck')
+def healthcheck():
+    return "ok", 200
+
 if __name__ == '__main__':
     app.run(
         debug=int(
@@ -83,7 +87,3 @@ if __name__ == '__main__':
                 'FLASK_DEBUG', False)), port=os.getenv(
             'FLASK_PORT', 5000), host="0.0.0.0")
 
-
-@app.route('/healthcheck')
-def healthcheck():
-    return "ok", 200

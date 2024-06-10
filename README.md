@@ -1,10 +1,18 @@
 # Github Users Stats
 
-<b>An API with (Flask+GraphQL+cron) to retrieve statistics from github users according to defined criteria</b>
+<b>An API with (Flask+GraphQL+cron) to retrieve statistics from github users according to defined criteria.
+Data is updated using github actions cron job</b>
 
 
 [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
 
+
+## Project stack 
+| Stack | Logo |
+| ----- | ---- |
+| Docker| <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>     |
+| Flask | <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> |
+| GraphQL |<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://graphql.org/_next/static/media/logo.ad338028.svg" alt="postgresql" width="40" height="40"/> </a> |
 
 ## Installation
 
@@ -93,7 +101,7 @@ docker run -e GITHUB_TOKEN=YOUR_TOKEN -e FLASK_DEBUG=1 -dp 5000:5000 flask-graph
      }
 ```
 
-<b>Complete users is available on: [users.json](users.json)</b>
+<b>Complete users(Senegal) is available on: [users.json](users.json)</b>
 
 </div>
 <div id="search_users">
@@ -170,13 +178,18 @@ If you want to fetch more,you must add the _after_ field
   "websiteUrl": "https://ahmadoubambadiagne.tech/"
 }
 ```
+# Authors
+<a href="https://github.com/bambadiagne/github-user-stats/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=bambadiagne/github-user-stats" />
+</a>
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+1. Click on the "Fork" button at the top right to create a copy   of the repository in your own GitHub account.
 
-Please make sure to update tests as appropriate.
+2. Clone the forked repository to your local machine:
+3. Create branch from master, make changes and start PR   
+
 
 ## License
 
