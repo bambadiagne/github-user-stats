@@ -10644,10 +10644,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/84734216?u=1f2a3b1ddbcaf9afdaa04c44837ffd5edcdb074e&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 240
+                    "totalContributions": 241
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 225
+                "totalCommitContributions": 226
             },
             "createdAt": "2021-05-24T16:58:18Z",
             "location": "Dakar",
@@ -13665,20 +13665,6 @@
             "name": "Kagdje Ivan"
         },
         {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/72917844?u=ffd4d79826bda5187c1f6992a76ad898b8d0e73d&v=4",
-            "contributionsCollection": {
-                "contributionCalendar": {
-                    "totalContributions": 11
-                },
-                "restrictedContributionsCount": 0,
-                "totalCommitContributions": 7
-            },
-            "createdAt": "2020-10-15T09:51:43Z",
-            "location": "Dakar",
-            "login": "MadoShi64",
-            "name": "Y\u00e9logniss\u00e8 Agbohessou"
-        },
-        {
             "avatarUrl": "https://avatars.githubusercontent.com/u/72798934?u=fe307c938b6ef1f92a2ce097931dfba78a0d8050&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
@@ -13850,9 +13836,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/71797475?u=2d9b65b777a58d31dc18f80400972c70828a935e&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 200
+                    "totalContributions": 201
                 },
-                "restrictedContributionsCount": 39,
+                "restrictedContributionsCount": 40,
                 "totalCommitContributions": 146
             },
             "createdAt": "2020-09-23T23:16:18Z",
@@ -19226,10 +19212,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/50179354?u=1f3b1890498834147c47f8147dc57e768467bcad&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 71
+                    "totalContributions": 68
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 57
+                "totalCommitContributions": 54
             },
             "createdAt": "2019-05-01T17:17:26Z",
             "location": "dakar, senegal",
@@ -21102,9 +21088,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/45307880?v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 482
+                    "totalContributions": 485
                 },
-                "restrictedContributionsCount": 293,
+                "restrictedContributionsCount": 296,
                 "totalCommitContributions": 109
             },
             "createdAt": "2018-11-24T08:51:51Z",
@@ -21158,10 +21144,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/45278724?u=0232c17904211491a7d30eb1b1b7897a6f99ffc1&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 338
+                    "totalContributions": 339
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 270
+                "totalCommitContributions": 271
             },
             "createdAt": "2018-11-23T03:55:39Z",
             "location": "Senegal,Dakar",
@@ -21664,7 +21650,7 @@
                 "contributionCalendar": {
                     "totalContributions": 126
                 },
-                "restrictedContributionsCount": 124,
+                "restrictedContributionsCount": 125,
                 "totalCommitContributions": 1
             },
             "createdAt": "2018-09-14T15:51:50Z",
