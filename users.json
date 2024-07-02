@@ -1516,10 +1516,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/147844826?u=797e7f7287d68b7d1412fda20a0d9375e816daf4&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 67
+                    "totalContributions": 69
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 33
+                "totalCommitContributions": 34
             },
             "createdAt": "2023-10-13T15:22:17Z",
             "location": "S\u00e9n\u00e9gal",
@@ -2804,10 +2804,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/129201720?u=642b6bae7f192713156d440ca3ae0745368169c2&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 63
+                    "totalContributions": 79
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 58
+                "totalCommitContributions": 73
             },
             "createdAt": "2023-03-28T15:39:23Z",
             "location": "Senegal | Dakar | Gu\u00e9diawaye",
@@ -3364,10 +3364,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/124515299?u=69657cda2546dc1063a3b1727af63721543137f6&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 693
+                    "totalContributions": 695
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 473
+                "totalCommitContributions": 474
             },
             "createdAt": "2023-02-05T15:41:03Z",
             "location": "Dakar",
@@ -5086,7 +5086,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/111649198?v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 74
+                    "totalContributions": 75
                 },
                 "restrictedContributionsCount": 0,
                 "totalCommitContributions": 61
@@ -7858,9 +7858,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/98955234?u=5190c80b44e6a32910ce1974161953cdc13ee522&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 1377
+                    "totalContributions": 1388
                 },
-                "restrictedContributionsCount": 1330,
+                "restrictedContributionsCount": 1341,
                 "totalCommitContributions": 38
             },
             "createdAt": "2022-02-03T12:03:58Z",
@@ -8068,9 +8068,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/97961279?u=69ad1fcc250d4ba06747d4fbae1bbea85f9bd53d&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 2188
+                    "totalContributions": 2195
                 },
-                "restrictedContributionsCount": 2165,
+                "restrictedContributionsCount": 2172,
                 "totalCommitContributions": 16
             },
             "createdAt": "2022-01-18T13:07:42Z",
@@ -10700,10 +10700,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/84734216?u=1f2a3b1ddbcaf9afdaa04c44837ffd5edcdb074e&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 362
+                    "totalContributions": 363
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 347
+                "totalCommitContributions": 348
             },
             "createdAt": "2021-05-24T16:58:18Z",
             "location": "Dakar",
@@ -11442,10 +11442,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/82377686?u=d300171da479dfabb73a47e119ce45652c88b065&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 5685
+                    "totalContributions": 5686
                 },
                 "restrictedContributionsCount": 254,
-                "totalCommitContributions": 5400
+                "totalCommitContributions": 5401
             },
             "createdAt": "2021-04-12T10:18:13Z",
             "location": "Dakar, Senegal",
@@ -11820,9 +11820,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/80828135?u=5a59b581bc68ef88b914fead045859dffa71061e&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 679
+                    "totalContributions": 681
                 },
-                "restrictedContributionsCount": 311,
+                "restrictedContributionsCount": 313,
                 "totalCommitContributions": 324
             },
             "createdAt": "2021-03-17T12:01:57Z",
@@ -11862,9 +11862,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/80554867?u=8408ca1e27624eeb25816127991064b6b0fa9608&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 223
+                    "totalContributions": 224
                 },
-                "restrictedContributionsCount": 202,
+                "restrictedContributionsCount": 203,
                 "totalCommitContributions": 16
             },
             "createdAt": "2021-03-13T00:27:42Z",
@@ -15180,9 +15180,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/65301551?u=ce78c23cb20b4e37c8e2e0d4a4e4f0e71d30224c&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 509
+                    "totalContributions": 522
                 },
-                "restrictedContributionsCount": 503,
+                "restrictedContributionsCount": 516,
                 "totalCommitContributions": 3
             },
             "createdAt": "2020-05-13T16:07:28Z",
@@ -15446,9 +15446,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/64292975?v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 471
+                    "totalContributions": 477
                 },
-                "restrictedContributionsCount": 471,
+                "restrictedContributionsCount": 477,
                 "totalCommitContributions": 0
             },
             "createdAt": "2020-04-25T01:19:36Z",
@@ -15838,9 +15838,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/63106300?u=67dac9b9a7ea0b7c9b3056521ef746135b0e0182&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 1464
+                    "totalContributions": 1469
                 },
-                "restrictedContributionsCount": 1463,
+                "restrictedContributionsCount": 1468,
                 "totalCommitContributions": 1
             },
             "createdAt": "2020-04-03T12:45:23Z",
@@ -17728,10 +17728,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/56987139?u=5d16b47e7d76bc46c66da41f516c1a13b4b2dab1&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 429
+                    "totalContributions": 432
                 },
                 "restrictedContributionsCount": 54,
-                "totalCommitContributions": 359
+                "totalCommitContributions": 362
             },
             "createdAt": "2019-10-25T02:19:57Z",
             "location": "Dakar, Senegal",
@@ -18190,9 +18190,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/54796803?u=73273cae628a138920ddfcf1d055987ac85f4d6d&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 526
+                    "totalContributions": 527
                 },
-                "restrictedContributionsCount": 526,
+                "restrictedContributionsCount": 527,
                 "totalCommitContributions": 0
             },
             "createdAt": "2019-09-02T08:28:03Z",
@@ -19870,10 +19870,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/48814220?u=a7aa208764f81d2539e229e10cd302c867ef942a&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 262
+                    "totalContributions": 267
                 },
                 "restrictedContributionsCount": 18,
-                "totalCommitContributions": 225
+                "totalCommitContributions": 229
             },
             "createdAt": "2019-03-22T01:46:40Z",
             "location": "S\u00e9n\u00e9gal",
@@ -20178,9 +20178,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/47791620?u=a941d3a86208bb9ff2b7cbf8a8f6a2ec900f629d&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 262
+                    "totalContributions": 267
                 },
-                "restrictedContributionsCount": 208,
+                "restrictedContributionsCount": 213,
                 "totalCommitContributions": 47
             },
             "createdAt": "2019-02-19T17:54:30Z",
@@ -21228,10 +21228,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/45278724?u=0232c17904211491a7d30eb1b1b7897a6f99ffc1&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 463
+                    "totalContributions": 464
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 397
+                "totalCommitContributions": 398
             },
             "createdAt": "2018-11-23T03:55:39Z",
             "location": "Senegal,Dakar",
@@ -24308,9 +24308,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/32105212?u=3b1f7712d9f13af20462e860502bfa827cf95523&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 131
+                    "totalContributions": 133
                 },
-                "restrictedContributionsCount": 104,
+                "restrictedContributionsCount": 106,
                 "totalCommitContributions": 16
             },
             "createdAt": "2017-09-19T16:24:07Z",
@@ -26615,7 +26615,7 @@
             "name": null
         },
         {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/20041588?u=98c25188c18e70b3c3b05ec63154b2119c880003&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20041588?u=a4f292894eaae2ddf818bed29d6ba6033f5efc19&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
                     "totalContributions": 95
@@ -26758,9 +26758,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/19511222?u=d845f06d0ce8813e4a361c6e5c1bef0bdc21fcaf&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 876
+                    "totalContributions": 880
                 },
-                "restrictedContributionsCount": 875,
+                "restrictedContributionsCount": 879,
                 "totalCommitContributions": 1
             },
             "createdAt": "2016-05-22T01:00:13Z",
@@ -27206,9 +27206,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/17571380?v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 2288
+                    "totalContributions": 2289
                 },
-                "restrictedContributionsCount": 2239,
+                "restrictedContributionsCount": 2240,
                 "totalCommitContributions": 37
             },
             "createdAt": "2016-03-01T14:35:57Z",
@@ -28746,9 +28746,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/11511172?v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 336
+                    "totalContributions": 339
                 },
-                "restrictedContributionsCount": 332,
+                "restrictedContributionsCount": 335,
                 "totalCommitContributions": 2
             },
             "createdAt": "2015-03-16T23:07:38Z",
@@ -29544,9 +29544,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7549316?u=b0257a5dcc5a050ddaa73c8f7be4d1e0e4dfb62f&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 396
+                    "totalContributions": 397
                 },
-                "restrictedContributionsCount": 216,
+                "restrictedContributionsCount": 217,
                 "totalCommitContributions": 106
             },
             "createdAt": "2014-05-11T14:22:22Z",
@@ -31700,9 +31700,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/340927?v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 1293
+                    "totalContributions": 1295
                 },
-                "restrictedContributionsCount": 895,
+                "restrictedContributionsCount": 897,
                 "totalCommitContributions": 344
             },
             "createdAt": "2010-07-22T15:03:38Z",
@@ -31854,9 +31854,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/28127?u=4ae8f06764a8f256af86f566cecc809cb3bcd4bb&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 620
+                    "totalContributions": 622
                 },
-                "restrictedContributionsCount": 618,
+                "restrictedContributionsCount": 620,
                 "totalCommitContributions": 0
             },
             "createdAt": "2008-10-08T14:56:39Z",
