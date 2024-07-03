@@ -10700,10 +10700,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/84734216?u=1f2a3b1ddbcaf9afdaa04c44837ffd5edcdb074e&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 366
+                    "totalContributions": 367
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 351
+                "totalCommitContributions": 352
             },
             "createdAt": "2021-05-24T16:58:18Z",
             "location": "Dakar",
@@ -19284,7 +19284,7 @@
                 "contributionCalendar": {
                     "totalContributions": 233
                 },
-                "restrictedContributionsCount": 193,
+                "restrictedContributionsCount": 194,
                 "totalCommitContributions": 35
             },
             "createdAt": "2019-05-02T03:58:03Z",
@@ -21228,10 +21228,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/45278724?u=0232c17904211491a7d30eb1b1b7897a6f99ffc1&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 471
+                    "totalContributions": 472
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 404
+                "totalCommitContributions": 405
             },
             "createdAt": "2018-11-23T03:55:39Z",
             "location": "Senegal,Dakar",
@@ -21732,9 +21732,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/43276113?u=28bc2feab587fa27ed4f6eeb637fbc2ffb512256&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 133
+                    "totalContributions": 135
                 },
-                "restrictedContributionsCount": 123,
+                "restrictedContributionsCount": 125,
                 "totalCommitContributions": 2
             },
             "createdAt": "2018-09-14T15:51:50Z",
