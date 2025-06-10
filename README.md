@@ -29,9 +29,8 @@ python3 app.py
 
 ```bash
 docker build . -t flask-graphql-github
-docker run -e GITHUB_TOKEN=YOUR_TOKEN -e FLASK_DEBUG=1 -dp 5000:5000 flask-graphql-github
+docker run -e TOKENS=YOUR_TOKENS -e FLASK_DEBUG=1 -v ".:/app" -dp 5000:5000 flask-graphql-github
 ```
-
 ## Usage
 
 <br><b>With this tool, you will be able to know for example who uses a certain language (go, python, java,...), retrieve all users from a location for your dataset for example, it can also help recruiters...</b>
@@ -149,39 +148,41 @@ If you want to fetch more,you must add the _after_ field
 ```bash
    GET /users/bambadiagne
  {
-  "avatarUrl": "https://avatars.githubusercontent.com/u/45278724?u=8d5129d655e9eafebcd725944bf401ca0ba93feb&v=4",
-  "bio": "Full-stack Developper Python-JS  | Devops Enthusiast | CTF player",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45278724?u=0232c17904211491a7d30eb1b1b7897a6f99ffc1&v=4",
+  "bio": "Full-stack Developper | Devops & Cloud Enthusiast |  AWS certified ",
   "contributionsCollection": {
     "contributionCalendar": {
-      "totalContributions": 359
+      "totalContributions": 716
     },
-    "restrictedContributionsCount": 0,
-    "totalCommitContributions": 293
+    "restrictedContributionsCount": 74,
+    "totalCommitContributions": 608
   },
   "email": "diagne.bambahmadou@gmail.com",
   "location": "Senegal,Dakar",
   "login": "bambadiagne",
   "most_starred_repo": {
-    "forkCount": 0,
+    "forkCount": 4,
     "name": "github-user-stats",
-    "stargazerCount": 9
+    "stargazerCount": 26
   },
   "most_used_languages": [
     "JavaScript",
     "HTML",
     "CSS",
-    "Java",
-    "Python"
+    "Python",
+    "TypeScript"
   ],
   "name": "Ahmadou Bamba Diagne",
-  "twitterUsername": "AhmadouElkha",
-  "websiteUrl": "https://ahmadoubambadiagne.tech/"
+  "twitterUsername": "Elkha_D",
+  "websiteUrl": "https://bambadiagne.github.io/"
 }
 ```
 # Authors
 <a href="https://github.com/bambadiagne/github-user-stats/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=bambadiagne/github-user-stats" />
 </a>
+<br>
+Thanks to [daoodaba975](https://github.com/daoodaba975/galsenify) for providing Senegalese locations.
 
 ## Contributing
 
