@@ -1,9 +1,13 @@
-name: Update users.json data every Monday at midnight UTC
+name: Update technos_stats.json data 3 times on the same day each week (90min apart)
 
 on:
   schedule:
-    - cron: '0 0 * * 1'
-  workflow_dispatch: 
+    # Example: Every Monday at 00:00, 01:30, and 03:00 UTC
+    - cron: '0 0 * * 2'
+    - cron: '30 1 * * 2'
+    - cron: '0 3 * * 2'
+  workflow_dispatch:
+
 jobs:
   update_data:
     runs-on: ubuntu-latest
@@ -23,16 +27,16 @@ jobs:
         run: pip install -r requirements.txt 
 
       - name: Run Python script
-        run: python -c "from query import get_all_senegalese_users; get_all_senegalese_users()"
+        run: python -c "from query import get_all_senegalese_technos; get_all_senegalese_technos()"
         continue-on-error: true
         
       - name: Auto commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update user.json data n° ${{ github.run_number }}"
+          commit_message: "Update technos_stats.json data n° ${{ github.run_number }}"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
-          file_pattern: 'users.json'
+          file_pattern: '*.json' 
           push_options: '--force'
           skip_fetch: true
           branch: ${{ github.head_ref }}
