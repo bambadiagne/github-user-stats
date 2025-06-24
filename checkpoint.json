@@ -1,5 +1,5 @@
 {
-  "last_user": "PappaLaity",
+  "last_user": "tamsir",
   "results": [
     {
       "username": "Digital-Mind-Plus-Tech",
@@ -22163,6 +22163,6110 @@
           "ios": 2,
           "ionic": 2
         }
+      },
+      "repos_analyzed": 100
+    },
+    {
+      "username": "anicetblog",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "LatyrDiouf1982",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "amsetdesign",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 1
+    },
+    {
+      "username": "OlivierNad",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 1
+    },
+    {
+      "username": "ibrahimCoc",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 1
+    },
+    {
+      "username": "waserby",
+      "technologies": {
+        "backend": {},
+        "frontend": {
+          "angular": 1
+        },
+        "mobile": {
+          "ionic": 1,
+          "cordova": 1
+        }
+      },
+      "repos_analyzed": 1
+    },
+    {
+      "username": "ousmanah",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 2
+    },
+    {
+      "username": "pathtoscience",
+      "technologies": {
+        "backend": {
+          "django": 1
+        },
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 2
+    },
+    {
+      "username": "Thonny1503",
+      "technologies": {
+        "backend": {
+          "express": 1
+        },
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 3
+    },
+    {
+      "username": "NdongoDev",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 4
+    },
+    {
+      "username": "DaoudaSene",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "KhadimGueye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 1
+    },
+    {
+      "username": "Ondoffe",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mbiregueye",
+      "technologies": {
+        "backend": {
+          "laravel/framework": 1
+        },
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 4
+    },
+    {
+      "username": "babacarpatrick9",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 1
+    },
+    {
+      "username": "serignebodian",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "fagueye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "maya0405",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Hafibarry",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 2
+    },
+    {
+      "username": "AcoliD",
+      "technologies": {
+        "backend": {},
+        "frontend": {
+          "react": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 1
+    },
+    {
+      "username": "Babasaner",
+      "technologies": {
+        "backend": {
+          "express": 1
+        },
+        "frontend": {
+          "react": 2,
+          "next": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 4
+    },
+    {
+      "username": "littlebluey",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 2
+    },
+    {
+      "username": "amdalyd",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cir27",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kasali",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {
+          "com.android.application": 2,
+          "androidx": 2,
+          "kotlin-android": 1
+        }
+      },
+      "repos_analyzed": 6
+    },
+    {
+      "username": "sergiomendy",
+      "technologies": {
+        "backend": {
+          "fastapi": 2
+        },
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 8
+    },
+    {
+      "username": "AlassaneSylla",
+      "technologies": {
+        "backend": {
+          "express": 2,
+          "nestjs": 1
+        },
+        "frontend": {
+          "react": 2,
+          "next": 1,
+          "angular": 2
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 7
+    },
+    {
+      "username": "AbdoulayeNDAO12",
+      "technologies": {
+        "backend": {
+          "express": 1
+        },
+        "frontend": {
+          "angular": 4,
+          "react": 1
+        },
+        "mobile": {
+          "ionic": 2,
+          "cordova": 1
+        }
+      },
+      "repos_analyzed": 12
+    },
+    {
+      "username": "bilxadim",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 8
+    },
+    {
+      "username": "ngorseckframework",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 2
+    },
+    {
+      "username": "adapolytech",
+      "technologies": {
+        "backend": {
+          "express": 4,
+          "nestjs": 1
+        },
+        "frontend": {
+          "angular": 1
+        },
+        "mobile": {
+          "ionic": 1
+        }
+      },
+      "repos_analyzed": 15
+    },
+    {
+      "username": "tenediabate",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "akasse",
+      "technologies": {
+        "backend": {
+          "spring-boot-starter": 2,
+          "springframework": 2,
+          "nestjs": 1,
+          "laravel/framework": 1
+        },
+        "frontend": {
+          "angular": 5,
+          "vue": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 13
+    },
+    {
+      "username": "sidymbengue25",
+      "technologies": {
+        "backend": {},
+        "frontend": {
+          "angular": 5
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 12
+    },
+    {
+      "username": "blechkopp",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 3
+    },
+    {
+      "username": "blogstartech",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "itslouisdb",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Tahirou-DIABATE",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {
+          "com.android.application": 1,
+          "androidx": 1,
+          "kotlin-android": 1
+        }
+      },
+      "repos_analyzed": 3
+    },
+    {
+      "username": "DemboToure",
+      "technologies": {
+        "backend": {
+          "spring-boot-starter": 2,
+          "springframework": 2,
+          "express": 1
+        },
+        "frontend": {
+          "react": 1,
+          "next": 1,
+          "angular": 2
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 10
+    },
+    {
+      "username": "Rodolpheci",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "liby",
+      "technologies": {
+        "backend": {},
+        "frontend": {
+          "react": 4,
+          "next": 3
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 18
+    },
+    {
+      "username": "essehabj",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "abdalaye",
+      "technologies": {
+        "backend": {
+          "symfony/console": 1,
+          "spring-boot-starter": 1,
+          "springframework": 1,
+          "laravel/framework": 1,
+          "express": 1
+        },
+        "frontend": {
+          "angular": 1,
+          "react": 2,
+          "vue": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 8
+    },
+    {
+      "username": "schuif",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dallha",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Socrad6",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 3
+    },
+    {
+      "username": "301995",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ousmane12",
+      "technologies": {
+        "backend": {
+          "laravel/framework": 1,
+          "spring-boot-starter": 3,
+          "springframework": 3,
+          "express": 2
+        },
+        "frontend": {
+          "vite": 1,
+          "react": 3,
+          "next": 1,
+          "angular": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 14
+    },
+    {
+      "username": "CHRISTMardochee",
+      "technologies": {
+        "backend": {
+          "spring-boot-starter": 1,
+          "springframework": 1,
+          "flask": 1
+        },
+        "frontend": {
+          "angular": 2
+        },
+        "mobile": {
+          "com.android.application": 2,
+          "ionic": 1,
+          "cordova": 1
+        }
+      },
+      "repos_analyzed": 13
+    },
+    {
+      "username": "g-optumus",
+      "technologies": {
+        "backend": {},
+        "frontend": {
+          "angular": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 1
+    },
+    {
+      "username": "diaotapha",
+      "technologies": {
+        "backend": {},
+        "frontend": {
+          "react": 3
+        },
+        "mobile": {
+          "react-native": 2,
+          "expo": 2
+        }
+      },
+      "repos_analyzed": 21
+    },
+    {
+      "username": "burodiallo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "djidjiawdia",
+      "technologies": {
+        "backend": {
+          "spring-boot-starter": 2,
+          "springframework": 2,
+          "symfony/console": 2
+        },
+        "frontend": {
+          "react": 1,
+          "angular": 7
+        },
+        "mobile": {
+          "react-native": 1,
+          "expo": 1,
+          "ios": 2,
+          "flutter": 1
+        }
+      },
+      "repos_analyzed": 21
+    },
+    {
+      "username": "tineGmb",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Diori",
+      "technologies": {
+        "backend": {},
+        "frontend": {
+          "angular": 2,
+          "react": 5
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 9
+    },
+    {
+      "username": "BADIANE-UADB",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Sabayke",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {
+          "cordova": 1
+        }
+      },
+      "repos_analyzed": 16
+    },
+    {
+      "username": "benmalick",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 2
+    },
+    {
+      "username": "abdou66",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 4
+    },
+    {
+      "username": "elgarmi09gt",
+      "technologies": {
+        "backend": {
+          "laravel/framework": 5,
+          "symfony/console": 1
+        },
+        "frontend": {
+          "vite": 1
+        },
+        "mobile": {
+          "flutter": 1
+        }
+      },
+      "repos_analyzed": 15
+    },
+    {
+      "username": "babacarMbengue12",
+      "technologies": {
+        "backend": {
+          "express": 1,
+          "nestjs": 1,
+          "symfony/console": 1,
+          "flask": 1
+        },
+        "frontend": {
+          "react": 13
+        },
+        "mobile": {
+          "react-native": 8,
+          "expo": 5,
+          "ios": 2
+        }
+      },
+      "repos_analyzed": 24
+    },
+    {
+      "username": "arona14",
+      "technologies": {
+        "backend": {
+          "django": 4
+        },
+        "frontend": {
+          "react": 9,
+          "next": 2,
+          "vite": 2,
+          "angular": 1
+        },
+        "mobile": {
+          "react-native": 1,
+          "expo": 1
+        }
+      },
+      "repos_analyzed": 25
+    },
+    {
+      "username": "smallIdeea",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 1
+    },
+    {
+      "username": "omzodollar",
+      "technologies": {
+        "backend": {
+          "spring-boot-starter": 6,
+          "springframework": 6,
+          "express": 1
+        },
+        "frontend": {
+          "angular": 2,
+          "vue": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 14
+    },
+    {
+      "username": "graphiso",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 4
+    },
+    {
+      "username": "coulou800",
+      "technologies": {
+        "backend": {
+          "express": 1
+        },
+        "frontend": {
+          "react": 1,
+          "next": 1
+        },
+        "mobile": {
+          "flutter": 1
+        }
+      },
+      "repos_analyzed": 15
+    },
+    {
+      "username": "baldex90",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 3
+    },
+    {
+      "username": "MahmoudDiallo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 5
+    },
+    {
+      "username": "lilkaiserdev",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "MamadouNiang",
+      "technologies": {
+        "backend": {},
+        "frontend": {
+          "angular": 6
+        },
+        "mobile": {
+          "ionic": 2,
+          "cordova": 2,
+          "expo": 1
+        }
+      },
+      "repos_analyzed": 9
+    },
+    {
+      "username": "scarrigg",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "liniso",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 2
+    },
+    {
+      "username": "Babacar29",
+      "technologies": {
+        "backend": {},
+        "frontend": {
+          "react": 1,
+          "vite": 1
+        },
+        "mobile": {
+          "ios": 8,
+          "flutter": 7
+        }
+      },
+      "repos_analyzed": 9
+    },
+    {
+      "username": "demba95",
+      "technologies": {
+        "backend": {
+          "express": 1
+        },
+        "frontend": {
+          "react": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 5
+    },
+    {
+      "username": "ryjflysky",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Amadou221",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mohamedsow96",
+      "technologies": {
+        "backend": {
+          "laravel/framework": 1
+        },
+        "frontend": {
+          "angular": 5,
+          "vue": 1
+        },
+        "mobile": {
+          "ionic": 2,
+          "cordova": 1
+        }
+      },
+      "repos_analyzed": 15
+    },
+    {
+      "username": "amadatte40",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ctg-cours",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "prise4u",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "webdevsene",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Ariste7",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "babsacademy",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mohamedniang",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bayendemba",
+      "technologies": {
+        "backend": {
+          "express": 1,
+          "laravel/framework": 1
+        },
+        "frontend": {
+          "vue": 1,
+          "angular": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 12
+    },
+    {
+      "username": "senmatrix",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "serigne-ndiaye86",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "YaseenEltahir",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "boubakarforseti",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "anashe00",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Ellimann",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "iboofaye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 6
+    },
+    {
+      "username": "CheikhTD",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dave4real",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "madskinner",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 7
+    },
+    {
+      "username": "Badouu",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mohadoum",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "134130U",
+      "technologies": {
+        "backend": {
+          "fastapi": 1,
+          "flask": 1
+        },
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 27
+    },
+    {
+      "username": "kofilolx",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "wettanam",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "blvckpvblo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ibrahima92",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "nanotechno",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bayevels",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kouamegerard",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "aliounekanoute",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "malik-devops",
+      "technologies": {
+        "backend": {
+          "django": 1
+        },
+        "frontend": {
+          "vue": 1,
+          "react": 2,
+          "vite": 1
+        },
+        "mobile": {
+          "ionic": 1
+        }
+      },
+      "repos_analyzed": 13
+    },
+    {
+      "username": "enigma119",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Abouba-Haidara",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "smsow",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "destoone",
+      "technologies": {
+        "backend": {
+          "flask": 1
+        },
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 18
+    },
+    {
+      "username": "devakams",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sowteur",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "LPIX-11",
+      "technologies": {
+        "backend": {
+          "express": 1
+        },
+        "frontend": {
+          "react": 8,
+          "vite": 1,
+          "next": 2,
+          "angular": 1
+        },
+        "mobile": {
+          "ios": 1,
+          "react-native": 3,
+          "expo": 3,
+          "ionic": 1,
+          "com.android.application": 1
+        }
+      },
+      "repos_analyzed": 36
+    },
+    {
+      "username": "ndiadedev",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ginetteH",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Naibeye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "w-bertrand",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "faissan",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Jangoowo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sissokho",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "alassann",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "helixdevteam",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Tiamawa",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Nfally",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mombengue",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Faaline",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sadelma",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kylonrizoki",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "DonaldTANGUEP",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "biggiebasse",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "legeekado",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bachirNdiaye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bertlorenz",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mooha7",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Jukoo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 16
+    },
+    {
+      "username": "clicservices",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "edbaymax",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "AlassaneDialDiop",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "djiby5039",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mamar93",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "asimzz",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ng-xcv",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "pacoJazz",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ManuSquall",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "papamourseck",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "romaricvivien65",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Toussaint98",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "xarala221",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Maleek337",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "awadiagne",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Aboubacar-thiam1",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ekoue",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "techsiwolof",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "KoassiAkakpo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "symody119",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kayode-adechinan",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kalzgalsen",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mcphen",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "BachirBichri",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "allassaniaziz",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "nangui",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sirsarr",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mountaga123",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "daboline",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Niassy",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "duxlamzo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "DieuMerciKIMPOLO",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "space-dev-sika",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mhddiallo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bidrame",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mouhanani",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Aliouibnkhoudar",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "metzenden",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "WeMadeItMor",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "gabslim912",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "DjafarMaiga",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "nushen96",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sidbouomgni",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "PapeDev",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "osenefk",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ThinkTech",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Theocomtech",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "layepro1",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Henock96",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "electron44",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "MSProgr",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "PapiHack",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "moustaphboss",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "falidevit",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "VraiPoulain",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "m3dvirux",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bigmodou",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Jamalahi30",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "matzgmb",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mh-barry",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "madrack10",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "diadjii",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "NdeneSENE",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mussajoop",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kowar",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "followyaya",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mdiopsmart",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mlniang",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "AdameLeNgolo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mrrndm",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mosesba",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mimistic",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "zimkha",
+      "technologies": {
+        "backend": {
+          "express": 9,
+          "laravel/framework": 3,
+          "spring-boot-starter": 3,
+          "springframework": 3,
+          "nestjs": 1,
+          "hapi": 2
+        },
+        "frontend": {
+          "angular": 2,
+          "vue": 2,
+          "react": 1
+        },
+        "mobile": {
+          "flutter": 2
+        }
+      },
+      "repos_analyzed": 51
+    },
+    {
+      "username": "ibou123",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ucool66",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mamexa",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cakmbengue",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "devehod",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Adja-Fatou-Elisabeth",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Cheikh05",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "amdaly070390",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Alimatou",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Mardel-Kristine",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "JetroJane",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ababacarkamara",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bayalba",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "thierved",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "geekabou08",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ehbc221",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "OusManDiouf",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ishwariya99",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "massambadiouf",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "osymo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sadatetchamouza",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "yilimane88",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "birante",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "requinblanc",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "deme91",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Bramslo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "oksam90",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Hamidfils",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sadumatic",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Zicrou",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "moctarjallo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "braimstall",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "senegalensis",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "JuliaConrad",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "picojazz",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Papaass",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Sidibedev",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "tdia",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "djk-ia",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "moustaphadiakhate",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "superroot2016",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ciremoussadia",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Makira12",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "tafzer",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Indoye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "T-Tatsumaki",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "pabx12",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cheikhounagueye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bigdatalandscape",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "oumarsarr",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "rahou25",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "papebirima374",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bolare67",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "souleymane98",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "PhoenixCodesStudio",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Salla-tech",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ndiguesene",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "seydousoow",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sonofGod225",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "tyzi",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ndiayeamadou",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "awafreecodecampcoder",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "MohametLamineNdiaye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cheikhtalla",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "DiopBabacarEdu",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Bog0sso",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cbag1",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "da5atar",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "lionnelpat",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mamless",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Kisuuleivan",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Bazaki",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mouhamadkamara",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "metouole",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dessteyu",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "laminehamet",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Mafieuu",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "haidaraKarara",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "MiceBishop",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "eyramadzra",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "essaimess",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "roslanPaul",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "njare",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "eliaswalyba",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "AmadouAam",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "airman4",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Diallomm",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "layepythagore",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ibrahimTal",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "moussandiaye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sambakaan",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "boobacar",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cimycotech",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "realboubs15",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "falmataHassan",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "gambow",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "hebersenegal",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "onyxah",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "babandao",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "IsSeck",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Gaucherkadam",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "babacarbasse",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "souhaibou",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sarrusmane",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "okazey",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Bey-Ahmed",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "malicktech",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "jeanwaly",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "hatyy",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "diallotafsir52",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "AmirSmarty",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kbmpro1",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Moussa-Ball",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "gaoussoucamarauadb",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "douxsey",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "pacobabs",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kisscky2016",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "azougalsen",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "layebi",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "youriyav",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "shoks",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kayson91",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ginfemeth",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "supermalang",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "thiemaaliou",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "jiga7",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "guindo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "gayeous",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "akatech",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cotiga",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "MagatteTop",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Steco17",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Magueye717",
+      "technologies": {
+        "backend": {
+          "express": 3,
+          "laravel/framework": 3,
+          "flask": 3
+        },
+        "frontend": {
+          "react": 3,
+          "angular": 2
+        },
+        "mobile": {
+          "react-native": 1,
+          "expo": 1,
+          "ionic": 1
+        }
+      },
+      "repos_analyzed": 38
+    },
+    {
+      "username": "MohamedDabo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "AlecWeab",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "prosperitos",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "FayhElamin",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "SEYE9",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Usseynuuu",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Cheikh-Tijani",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ibeltechnology",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mehdiayad",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "baboubira",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "koueko",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "akote",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ndiao",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "nicholasf95",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "djadji-gueye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "fndiaye2015",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dolocko",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "diango",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "gawlab",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "PatriceWeisz",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "abdkarim",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ClaudeHangui",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dembasiby",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "beaukams",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "thecodemaker12",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Nicco-Cirone",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "musatouray",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "karab87",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "inbonizey",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sarrarsenal",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "adamavip",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sopeKhadim",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "lamadone",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "aliounemane2",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "njarestudio",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "beretisetfils",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "pedredieye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "djirotechno",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "tidianediallo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Alioune14",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "renekaesler",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "doudousine",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Daoudacomputech",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Kharagne",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "wpmina",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "touskar",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "minlaz1",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "soukalli",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "MouhamedGueye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ndiayealpha",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ndiagamactarfall",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "khalilbichri",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "seck44",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "PapyNdene",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "diagoibrahima",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bayepathefaye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "thiamos",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "jopmomo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "alioukahere",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "princenaar",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "programmerenc",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Pilorch",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "wazlid",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "akigongo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "MhamedBasheer",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Seydiousmane",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sogueye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "asonko",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "abesn",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "leesuh",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "tobodioya",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "lampdba",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "nIang-bah",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "momso93",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "tanordieng01",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "TeamCWMaps2015",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "SoryBalde",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bayethiernodiop",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "basseck",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "daoudagaye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ibstelix",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "daddymoses",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ngomgning",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "eliusxpol",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ziwkonnexion",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "yakhyadabo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Black-Styx",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "seydounourousy",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "maododiop",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "malick47k",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mardiagne",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "nzomedia",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "yayeoulimata",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "idiene",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "robinho007",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "gracekbaby",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "vimavie",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cdingui",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "niko74",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "idiaw",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mmbaye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Babacar90",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 3
+    },
+    {
+      "username": "yelome",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ouzin",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kronoseye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "m3doune",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "alphilippo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Maamdaw",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "galsenis",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kabastone",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "doulab",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dsanogo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sir-kain",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mohamed-falilou-fall",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "MouhamadouSENE",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "LaureBoud",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "DambyGreen",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "haasjaalo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "muh-ammad",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "BambaDiaw",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "oneil0",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kientorefaissal",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "lakhassane",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "robsnrob",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Baltazhar",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "yaddesign",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "TidianeSy",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "moussadiallo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "modoujamal",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bbbagoa",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "samirAlimi",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "diopman22",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "millifawler",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "falllamine",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "achnab",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "abdelthioye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "aniceto005",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Papeniokhor23",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "rygelouv",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "abdawone",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bessane",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "massire1",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "PAPERWORKCREW",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "aly-ba",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "katakeynii",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "wadealmamy",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "vannick",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "papeIdy",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "makhtardiouf",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "baayfily",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "lamethodevieux",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "badou007",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dkgndianko",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Lahad",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sun-go",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "AlicePat",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "abuhamza",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kharmaodo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "kandiaga",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "josephsarr",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dodji",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Bahkao",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "diagnadi",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ablito19",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "stantruffaut",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "houzawak",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "jkonte",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "lexprimost",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "DIAZAU",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "seysade",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "segtio",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Ekkehardt",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "gaoussoucamara",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mdmerveille",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "pduflot",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "civilwork1",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "MenendezON",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dioula",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "derkhadim",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "infoapplis",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "daoudasalih418",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Lamine88",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ouzin87",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Cheikhouna",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "madimakym",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cheikhmara",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cheikhshift",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "anitagirl80",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "amenassogba",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ozelind",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "gotechsn",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "thug1",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mbayfdieng",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "alakhame",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "yaroing",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "abndsn",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "toninhofinazzi",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ayiyanick",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sowdiomyero",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mbayeDev",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "sureinstein",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "minlaze1",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ndiayesa",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "benahmed",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Winlay",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "jmpreira",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mciss",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "abdoulayeDieng",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "pmsylla",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "baydam",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "OuijaSan",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "babs6c",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "philip38",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "seydimomogueye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "djibythiaw",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "boursine",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "odiaw1",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "umarus",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ali0une",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ouzdeville",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Bionik6",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ctkane",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mouta",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "lumerdiop",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "taboure",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Elbah",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "amdane",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "iboumbeng",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mouhamed",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "aaabdoulaye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mariteuw",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mamebocarsy",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "xadimousalih",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mency",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ldjibox",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "alhassane",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "pjsawadogo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Ryfa",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "shulambert",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Sowadou",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "baye-ndemba",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 32
+    },
+    {
+      "username": "byfall",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ndarnumerique",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "senegalnumerique",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "thewebinarts",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mauricioangulo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "trafox",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "christogonus",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mdiouf",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "joelbadj",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "omardoucoure",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bmdieng",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ElCep",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dragonnoir2012",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "gaeltsa",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Noumounthi",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ikanechallenge",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "elmagnif",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "gloriababy",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dadja",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ametfaye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "abdoupathe",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "coundia",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "ousmaneo",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "loxadim",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "xaragne",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "a8djil",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "moizz",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "chimango",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "soulesidibe",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bar-ka",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mbayefdieng",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "pmniang",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "doumbix",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "snconnect",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "tonux",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "elwan",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dioza22",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "moustapha",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "samekoudi",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dickoa",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "abdoukarim",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "cfndiaye",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "jonmike",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "mmkmou",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "duboz",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "bionic001",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "genoka",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "DRAKUN",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "Balley",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "PapePathe",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "senticad",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "scicasoft",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "nattyseydi",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "badaradiop",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "khadim210",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "leuk",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "aliounedia",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "wilane",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "dofbi",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "tamsir",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "hkairi",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 0
+    },
+    {
+      "username": "lamiinek",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 9
+    },
+    {
+      "username": "ngorseck",
+      "technologies": {
+        "backend": {
+          "spring-boot-starter": 4,
+          "springframework": 5
+        },
+        "frontend": {},
+        "mobile": {}
+      },
+      "repos_analyzed": 79
+    },
+    {
+      "username": "Bamba4",
+      "technologies": {
+        "backend": {
+          "laravel/framework": 1,
+          "express": 2,
+          "django": 1,
+          "spring-boot-starter": 1,
+          "springframework": 1
+        },
+        "frontend": {
+          "vue": 1,
+          "angular": 2,
+          "react": 2,
+          "next": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 89
+    },
+    {
+      "username": "honorableCon",
+      "technologies": {
+        "backend": {},
+        "frontend": {
+          "react": 1
+        },
+        "mobile": {}
+      },
+      "repos_analyzed": 84
+    },
+    {
+      "username": "zoulou421",
+      "technologies": {
+        "backend": {},
+        "frontend": {},
+        "mobile": {}
       },
       "repos_analyzed": 100
     }
