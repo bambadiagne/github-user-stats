@@ -1233,6 +1233,20 @@
             "name": "Elhadj Abdoulaye BArry"
         },
         {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/263469529?u=a6ffb7bcd852466d61616ac529ea6115d9b822c3&v=4",
+            "contributionsCollection": {
+                "contributionCalendar": {
+                    "totalContributions": 19
+                },
+                "restrictedContributionsCount": 0,
+                "totalCommitContributions": 14
+            },
+            "createdAt": "2026-02-23T20:42:21Z",
+            "location": "Dakar",
+            "login": "eabxrry",
+            "name": "Elhadj Abdoulaye BArry"
+        },
+        {
             "avatarUrl": "https://avatars.githubusercontent.com/u/263365843?u=913c20b4bc2a07b241553644a4427215e4d5e49c&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
@@ -2875,7 +2889,9 @@
             "contributionsCollection": {
                 "contributionCalendar": {
                     "totalContributions": 73
+                    "totalContributions": 73
                 },
+                "restrictedContributionsCount": 53,
                 "restrictedContributionsCount": 53,
                 "totalCommitContributions": 17
             },
@@ -3435,8 +3451,10 @@
             "contributionsCollection": {
                 "contributionCalendar": {
                     "totalContributions": 26
+                    "totalContributions": 26
                 },
                 "restrictedContributionsCount": 0,
+                "totalCommitContributions": 24
                 "totalCommitContributions": 24
             },
             "createdAt": "2025-09-16T05:53:40Z",
@@ -4498,6 +4516,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/220962780?u=213517228851e1c81bd276472085c851e5ba9783&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
+                    "totalContributions": 23
                     "totalContributions": 23
                 },
                 "restrictedContributionsCount": 0,
@@ -5577,7 +5596,10 @@
             "contributionsCollection": {
                 "contributionCalendar": {
                     "totalContributions": 1387
+                    "totalContributions": 1387
                 },
+                "restrictedContributionsCount": 148,
+                "totalCommitContributions": 1017
                 "restrictedContributionsCount": 148,
                 "totalCommitContributions": 1017
             },
