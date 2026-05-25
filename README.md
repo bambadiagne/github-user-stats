@@ -31,6 +31,22 @@ python3 app.py
 docker build . -t flask-graphql-github
 docker run -e TOKENS=YOUR_TOKENS -e FLASK_DEBUG=1 -v ".:/app" -dp 5000:5000 flask-graphql-github
 ```
+
+## Local workflow test with act
+
+act is intended for local workflow testing.
+
+Use this command to run the update workflow locally:
+
+```bash
+act -W .github/workflows/update_data.yml -j update_data --secret-file .secrets -v
+```
+
+Notes:
+- The workflow is designed for GitHub Actions and includes an auto-commit/push step.
+- In local act runs, push can fail if local GitHub credentials are not available.
+- For local validation, focus on the install and Python execution logs.
+
 ## Usage
 
 <br><b>With this tool, you will be able to know for example who uses a certain language (go, python, java,...), retrieve all users from a location for your dataset for example, it can also help recruiters...</b>
