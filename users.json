@@ -270,10 +270,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/279315166?v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 15
+                    "totalContributions": 17
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 13
+                "totalCommitContributions": 15
             },
             "createdAt": "2026-04-25T18:22:56Z",
             "location": "Dakar, S\u00e9n\u00e9gal",
@@ -676,9 +676,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/271870160?u=395277a3751263ea3c4c524917476f4a2c7a01a9&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 369
+                    "totalContributions": 374
                 },
-                "restrictedContributionsCount": 368,
+                "restrictedContributionsCount": 373,
                 "totalCommitContributions": 0
             },
             "createdAt": "2026-03-29T01:28:26Z",
@@ -1362,10 +1362,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/261784491?u=9aeba9aaaf6e405085e5f537c9a753c09a958f14&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 45
+                    "totalContributions": 53
                 },
                 "restrictedContributionsCount": 0,
-                "totalCommitContributions": 37
+                "totalCommitContributions": 43
             },
             "createdAt": "2026-02-15T17:09:23Z",
             "location": "Dakar, S\u00e9n\u00e9gal",
@@ -2874,9 +2874,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/238644641?u=4646ee64ade6126983ff2793f2cc12f895677f5e&v=4",
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 73
+                    "totalContributions": 76
                 },
-                "restrictedContributionsCount": 53,
+                "restrictedContributionsCount": 56,
                 "totalCommitContributions": 17
             },
             "createdAt": "2025-10-17T08:15:02Z",
