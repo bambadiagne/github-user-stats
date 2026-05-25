@@ -16,11 +16,14 @@ _logger = logging.getLogger(__name__)
 logging.basicConfig(level = logging.INFO)
 
 # --- GraphQL key rotation system ---
-GITHUB_TOKENS = os.getenv("TOKENS")  # Comma-separated list of tokens
-if GITHUB_TOKENS:
-    TOKENS = [t.strip() for t in GITHUB_TOKENS.split(",") if t.strip()]
+RAW_TOKENS = (
+    os.getenv("TOKENS")
+    or os.getenv("GITHUB_TOKENS")
+    or os.getenv("GITHUB_TOKEN")
+)
+TOKENS = [t.strip() for t in RAW_TOKENS.split(",") if t.strip()] if RAW_TOKENS else []
 if not TOKENS:
-    raise RuntimeError("No GitHub tokens provided in GITHUB_TOKEN or GITHUB_TOKENS env vars.")
+    raise RuntimeError("No GitHub tokens provided in TOKENS, GITHUB_TOKEN or GITHUB_TOKENS env vars.")
 DEFAULT_USERNAME = "torvalds"
 BASE_URL = "https://api.github.com/graphql"
 MAX_GITHUB_FETCH = 1000
@@ -231,19 +234,20 @@ def query_get_one_user(login=DEFAULT_USERNAME):
 def fetchAllSenegalese(query):
     all_users = []
     query = "type:user " + query
+    data = None
     try:
         data = handle_response(asyncio.run(
             get_graphql_client().execute_async(
-                query=query_all_senegalese(query, 50),
+                query=query_all_senegalese(query, 25),
             )), "search")
     except RuntimeError as e:
-        pass
+        _logger.warning(f"Runtime error while fetching users: {e}")
     except Exception as e:
         logging.error(f"Error fetching users: {e}")
-        # return {'users': None, 'message': str(e)}
-        pass
+    if not data:
+        return {'users': [], 'userCount': 0, 'message': "FETCH_FAILED"}
     if (data.get('message')):
-        return {'users': None, 'message': data.get('message')}
+        return {'users': [], 'userCount': 0, 'message': data.get('message')}
     userCount = data['userCount']
     all_users.extend(data['nodes'])  # remove empty json
     while (data['pageInfo']['hasNextPage']):
@@ -251,12 +255,13 @@ def fetchAllSenegalese(query):
         try:
             data = handle_response(asyncio.run(
                 get_graphql_client().execute_async(
-                    query=query_all_senegalese(query, 50, cursor),
+                    query=query_all_senegalese(query, 25, cursor),
                 )), "search")
             if (data.get('message')):
-                return {'users': None, 'message': data.get('message')}
+                return {'users': all_users, 'userCount': userCount, 'message': data.get('message')}
         except RuntimeError as e:
-            pass
+            _logger.warning(f"Runtime error while fetching next page: {e}")
+            break
         all_users.extend(data['nodes'])
     return {
         'users': all_users,
@@ -271,24 +276,42 @@ def user_fetcher(query=None, variables=None, single_fetch=False):
             get_graphql_client().execute_async(query=query,
                                           variables=variables
                                           ))
+        _logger.info('Test only')
+
         return data
     fetched_result = fetchAllSenegalese(LOCATIONS_FOR_SENEGAL + " sort:joined")
-    last_joined_user = fetched_result['users'][-1]
-    all_users = list(fetched_result['users'])
+    if not fetched_result:
+        _logger.warning("No users fetched on initial request. Message: NO_RESULT")
+        return []
+
+    raw_users = fetched_result.get('users') or []
+    valid_users = [u for u in raw_users if isinstance(u, dict) and u.get('createdAt')]
+    _logger.info(f"fetched_result len {len(valid_users)} {fetched_result.get('userCount', 0)}")
+
+    if not valid_users:
+        _logger.warning(f"No valid users fetched on initial request. Message: {fetched_result.get('message', 'NO_MESSAGE')}")
+        return []
+
+    last_joined_user = valid_users[-1]
+    all_users = list(valid_users)
     remaining_requests = math.ceil(
-        fetched_result['userCount'] /
+        (max(fetched_result.get('userCount', 0), len(all_users)) - len(all_users)) /
         MAX_GITHUB_FETCH)
+    _logger.info(f"Total users: {fetched_result.get('userCount', 0)}, fetched: {len(all_users)}, remaining requests: {remaining_requests}")
     for i in range(remaining_requests):
         users = fetchAllSenegalese(
             LOCATIONS_FOR_SENEGAL +
             f" sort:joined created:<{last_joined_user['createdAt']}")
-        # if not users or not users.get('users'):
-        #     break
-        all_users.extend(users['users'])
-        if (users['users'] == []):
+        if not users:
             break
-        last_joined_user = users['users'][-1]
 
+        next_users = [u for u in (users.get('users') or []) if isinstance(u, dict) and u.get('createdAt')]
+        if not next_users:
+            break
+
+        all_users.extend(next_users)
+        last_joined_user = next_users[-1]
+        _logger.info(f"Fetched {len(next_users)} users, total so far: {len(all_users)}")
     return all_users
 
 def get_graphql_client():

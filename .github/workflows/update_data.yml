@@ -24,7 +24,6 @@ jobs:
 
       - name: Run Python script
         run: python -c "from query import get_all_senegalese_users; get_all_senegalese_users()"
-        continue-on-error: true
         
       - name: Auto commit changes
         uses: stefanzweifel/git-auto-commit-action@v4

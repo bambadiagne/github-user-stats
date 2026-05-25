@@ -5,7 +5,7 @@ __pycache__/
 .ebextensions/
 # C extensions
 *.so
-
+.secrets
 # Distribution / packaging
 .Python
 build/

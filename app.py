@@ -7,13 +7,29 @@ import os
 app = Flask(__name__)
 CORS(app)
 scheduler = APScheduler()
-scheduler.init_app(app)
-scheduler.start()
 
-@scheduler.task('interval', id='do_fetch_senegal_users',
-                seconds=3600, misfire_grace_time=900)
-def get_senegal_users():
+
+def run_senegal_users_fetch():
+    app.logger.info("Starting scheduled Senegal users fetch")
     get_all_senegalese_users()
+    app.logger.info("Completed scheduled Senegal users fetch")
+
+
+@scheduler.task(
+    'interval',
+    id='do_fetch_senegal_users',
+    seconds=int(os.getenv('FETCH_INTERVAL_SECONDS', 3600)),
+    misfire_grace_time=900,
+    max_instances=1,
+    coalesce=True,
+)
+def scheduled_fetch_senegal_users():
+    run_senegal_users_fetch()
+
+@app.route('/all', methods=['GET'])
+def get_senegal_users():
+    run_senegal_users_fetch()
+    return {"message": "Users fetched successfully"}
 
 @app.route('/technos', methods=['GET'])
 def fetch_technos():
@@ -106,6 +122,11 @@ def page_not_found(e):
 @app.route('/healthcheck')
 def healthcheck():
     return "ok", 200
+
+
+scheduler.init_app(app)
+if not scheduler.running:
+    scheduler.start()
 
 if __name__ == '__main__':
     app.run(
