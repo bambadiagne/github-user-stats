@@ -279,11 +279,13 @@ def user_fetcher(query=None, variables=None, single_fetch=False):
                                           ))
         return data
     fetched_result = fetchAllSenegalese(LOCATIONS_FOR_SENEGAL + " sort:joined")
+    _logger.info(f"Fetched {len(fetched_result['users'])} users out of {fetched_result['userCount']} total.")
     last_joined_user = fetched_result['users'][-1]
     all_users = list(fetched_result['users'])
     remaining_requests = math.ceil(
-        fetched_result['userCount'] /
+        (fetched_result['userCount'] - len(fetched_result['users'])) /
         MAX_GITHUB_FETCH)
+    _logger.info(f"Estimated remaining requests: {remaining_requests} to fetch all users")
     for i in range(remaining_requests):
         users = fetchAllSenegalese(
             LOCATIONS_FOR_SENEGAL +
@@ -294,7 +296,7 @@ def user_fetcher(query=None, variables=None, single_fetch=False):
         if (users['users'] == []):
             break
         last_joined_user = users['users'][-1]
-
+        _logger.info(f"Fetched {len(users['users'])} users, total so far: {len(all_users)}")
     return all_users
 
 def get_graphql_client():
