@@ -130,6 +130,7 @@ def get_all_senegalese_users():
     all_users = {'users': []}
 
     all_users['users'] = user_fetcher()
+
     with open("users.json", "w", encoding="utf-8",) as f:
         json.dump(all_users,
                   f,
@@ -276,42 +277,24 @@ def user_fetcher(query=None, variables=None, single_fetch=False):
             get_graphql_client().execute_async(query=query,
                                           variables=variables
                                           ))
-        _logger.info('Test only')
-
         return data
     fetched_result = fetchAllSenegalese(LOCATIONS_FOR_SENEGAL + " sort:joined")
-    if not fetched_result:
-        _logger.warning("No users fetched on initial request. Message: NO_RESULT")
-        return []
-
-    raw_users = fetched_result.get('users') or []
-    valid_users = [u for u in raw_users if isinstance(u, dict) and u.get('createdAt')]
-    _logger.info(f"fetched_result len {len(valid_users)} {fetched_result.get('userCount', 0)}")
-
-    if not valid_users:
-        _logger.warning(f"No valid users fetched on initial request. Message: {fetched_result.get('message', 'NO_MESSAGE')}")
-        return []
-
-    last_joined_user = valid_users[-1]
-    all_users = list(valid_users)
+    last_joined_user = fetched_result['users'][-1]
+    all_users = list(fetched_result['users'])
     remaining_requests = math.ceil(
-        (max(fetched_result.get('userCount', 0), len(all_users)) - len(all_users)) /
+        fetched_result['userCount'] /
         MAX_GITHUB_FETCH)
-    _logger.info(f"Total users: {fetched_result.get('userCount', 0)}, fetched: {len(all_users)}, remaining requests: {remaining_requests}")
     for i in range(remaining_requests):
         users = fetchAllSenegalese(
             LOCATIONS_FOR_SENEGAL +
             f" sort:joined created:<{last_joined_user['createdAt']}")
-        if not users:
+        # if not users or not users.get('users'):
+        #     break
+        all_users.extend(users['users'])
+        if (users['users'] == []):
             break
+        last_joined_user = users['users'][-1]
 
-        next_users = [u for u in (users.get('users') or []) if isinstance(u, dict) and u.get('createdAt')]
-        if not next_users:
-            break
-
-        all_users.extend(next_users)
-        last_joined_user = next_users[-1]
-        _logger.info(f"Fetched {len(next_users)} users, total so far: {len(all_users)}")
     return all_users
 
 def get_graphql_client():

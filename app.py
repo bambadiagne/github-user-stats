@@ -26,10 +26,7 @@ def run_senegal_users_fetch():
 def scheduled_fetch_senegal_users():
     run_senegal_users_fetch()
 
-@app.route('/all', methods=['GET'])
-def get_senegal_users():
-    run_senegal_users_fetch()
-    return {"message": "Users fetched successfully"}
+
 
 @app.route('/technos', methods=['GET'])
 def fetch_technos():
